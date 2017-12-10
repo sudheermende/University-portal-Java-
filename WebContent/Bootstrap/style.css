@@ -1,0 +1,130 @@
+body {
+	background-color: white;
+}
+
+.navbar {
+	margin-bottom: 0;
+}
+
+header img {
+	width: 100%;
+}
+
+.slide h4 {
+	/*color: black;*/
+	font-weight: bold;
+}
+
+.carousel-inner {
+	width: 100%;
+	padding: 0;
+	margin-top: 0;
+}
+
+.item img {
+	width: 100%;
+}
+
+.rowItem {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.itemName {
+	font-family: Lucida Console;
+	font-weight: bold;
+	color: black;
+}
+
+.itemPrice {
+	font-family: Lucida Console;
+	font-weight: bold;
+	color: #7aacff;
+}
+
+.totalItem {
+	padding-top: 50px;
+	/* color:Red;
+    border-style: solid;
+    bordpx;er-width: medium;*/
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.rcorners1 {
+	border-radius: 100%;
+	height: 250px;
+	width: 250px;
+}
+
+.newOffers img {
+	height: 180px;
+	width: 250px;
+}
+
+.row {
+	padding-top: 20px;
+	width: 0 auto;
+	margin: auto;
+	/*     background-color: rgba(163, 168, 175,.2);
+ */
+}
+
+.newOffers {
+	width: 100%;
+	margin: auto;
+	background-color: rgba(163, 168, 175, .2);
+}
+
+.explore {
+	float: left;
+	margin: 0;
+	padding: 1em;
+}
+
+#ourStory, #support, .signup {
+	padding-left: 30px;
+	overflow: hidden;
+}
+
+.btn {
+	border-radius: 50px;
+	/*background-color: #00c5e8;*/
+}
+
+footer {
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 3px;
+	background-color: rgba(61, 65, 71, 1);
+	color: white;
+}
+
+footer a {
+	color: white;
+}
+
+#admissions {
+	background: url("univ(1).jpg") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+}
+
+article {
+	background-color: rgba(93, 146, 160, .5);
+	color: white;
+	padding: 10px 10px 10px 10px;
+}
+
+h1.HomeLogin, h6.HomeLogin {
+	text-align: center;
+}
+
+a.HomeLogin {
+	color: #b70a01;
+	text-decoration: none;
+}

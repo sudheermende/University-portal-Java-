@@ -1,0 +1,4 @@
+ 1.encouter all error which occure in jsp files when we change the wrong name
+    in url query parameters
+    (adding try-catch block, if any exception occures that redirect to homeLogin page
+      
